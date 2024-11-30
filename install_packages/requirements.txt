@@ -1,0 +1,14 @@
+openai:openai
+nest_asyncio:nest_asyncio
+networkx:networkx
+pyvis:pyvis
+geopandas:geopandas
+IPython:IPython
+iface:iface
+jsonpickle:jsonpickle
+regex:regex
+langchain_openai:langchain_openai
+toml:toml
+seaborn:seaborn
+pydantic:pydantic
+
